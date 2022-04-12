@@ -6,7 +6,7 @@ The library doesn't currently have storage between instances, so it will only ke
 Note:
 
 Staff login is: staff - today123<br>
-Default user login is: SmithJoe - 1234
+Default user login is: SmithJoe - 1234<br>
 Default tools are found in 1 - Gardening Tools, 1 - Line Trimmers.
 
 
