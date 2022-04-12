@@ -5,6 +5,7 @@ Staff may add new tools, see how many are being rented, add new users to the sys
 The library doesn't currently have storage between instances, so it will only keep track of changes in the active instance.
 
 ## Notes for running:
+exe in /Program/Assignment.exe<br>
 Staff login is: staff - today123<br>
 Default user login is: SmithJoe - 1234<br>
 Default tools are found in: 1 - Gardening Tools, 1 - Line Trimmers.
