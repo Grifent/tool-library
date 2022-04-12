@@ -1,5 +1,6 @@
 # tool-library
-A C# assignment focussing on OOP, where a sub-optimal interface was supplied to us and we had to build the system upon it. Functions as a tool borrowing system for a community tool shed. Users may see the available tools, borrow up to 3, and return them. 
+A C# assignment focussing on OOP, where a sub-optimal interface was supplied to us and we had to build the system upon it. 
+Functions as a command line tool borrowing system for a community tool shed. Users may see the available tools, borrow up to 3, and return them. 
 Staff may add new tools, see how many are being rented, add new users to the system, and look up those users.
 The library doesn't currently have storage between instances, so it will only keep track of changes in the running instance.
 
