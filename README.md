@@ -4,8 +4,8 @@ Staff may add new tools, see how many are being rented, and add new users to the
 
 Note:
 
-Staff login is staff - today123<br>
-Default user login is SmithJoe - 1234
+Staff login is: staff - today123<br>
+Default user login is: SmithJoe - 1234
 
 ![image](https://user-images.githubusercontent.com/82748756/162881964-6abfde79-c31f-4e01-b55d-7e01e3a93f27.png)
 
