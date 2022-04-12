@@ -13,10 +13,10 @@ namespace Assignment
             ToolLibrarySystem library = new ToolLibrarySystem(data); // Create new library system, sending the data system to it
             Menu menuSystem = new Menu(library, data); // Create a new member system, using the library and data systems
 
-            if (args.Length > 0) // Check if args have been given
-            {
-                if (args[0] == "-test") // Add default tool values for testing
-                {
+            //if (args.Length > 0) // Check if args have been given
+            //{
+            //    if (args[0] == "-test") // Add default tool values for testing
+            //    {
                     // Create new tools, default type is Gardening tools, Line trimmers
                     Tool tool1 = new Tool("Big Tool");
                     Tool tool2 = new Tool("Ozito 290mm Electric Line Trimmer");
@@ -45,8 +45,8 @@ namespace Assignment
 
                     // Add new members
                     library.add(joe);
-                }
-            }
+            //    }
+            //}
 
             // Bool that checks whether the user wants to exit the menu.
             bool showMenu = true; // Initialise true to start menu
