@@ -3,7 +3,7 @@ A C# assignment focussing on OOP, where a sub-optimal interface was supplied to 
 Staff may add new tools, see how many are being rented, add new users to the system, and look up those users.
 The library doesn't currently have storage between instances, so it will only keep track of changes in the running instance.
 
-##Notes for running:
+## Notes for running:
 Staff login is: staff - today123<br>
 Default user login is: SmithJoe - 1234<br>
 Default tools are found in: 1 - Gardening Tools, 1 - Line Trimmers.
