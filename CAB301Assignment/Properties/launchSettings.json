@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Assignment": {
+      "commandName": "Project",
+      "commandLineArgs": "-test"
+    }
+  }
+}
